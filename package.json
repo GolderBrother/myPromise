@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "bluebird": "^3.5.3"
+  },
+  "name": "promise",
+  "description": "异步发展流程和手写promise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "_bluebird@3.5.3@bluebird": "^3.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "james",
+  "license": "ISC"
+}
